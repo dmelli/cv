@@ -19,8 +19,8 @@ from tensorflow.python.client import device_lib
 TASK = 'predict' # [train, predict]
 TRAIN_NEW = False
 
-TRAIN_PATH = './train'
-VALID_PATH = './valid'
+TRAIN_PATH = './gender/train'
+VALID_PATH = './gender/valid'
 IN_TRAIN_RATIO = 0.9
 DROP_RATE = 0.5
 NUM_EPOCHS = 10
@@ -28,10 +28,12 @@ HIDDEN_DENSE = [1024,128]
 NUM_FIXED_LAYER = None
 PATIENCE = 10
 
+
 model_name = '{}_{}_{}'.format(
     NUM_FIXED_LAYER, 
     '_'.join(map(str, HIDDEN_DENSE)),
     str(DROP_RATE).replace('.',''))
+model_path = './gender/saved_model/{}.h5'.format(model_name)
 
 def create_train_valid(path):
     if path.exists():
@@ -56,7 +58,7 @@ def my_print(text):
 if TASK == 'predict':
     my_print('predict')
     try:
-        model = load_model('./saved_model/{}.h5'.format(model_name))
+        model = load_model(model_path)
         print('load model')
     except:
         print('no model found')
@@ -83,10 +85,12 @@ if TASK == 'predict':
 
 if TRAIN_NEW:
     data = pd.read_csv('./full.csv')
-    data['height'] = data.height.map(lambda i: re.sub('[^0-9]','',i)).map(lambda i: float(i[0])*12 + float(i[1:])/10)
-    data['bmi'] = data.weight / data.height.map(lambda i: i**2) * 703
-    data = data.loc[(data.weight >0) & (data.height > 0),:]
-    data['label'] = data.bmi.map(lambda i: 1 if i >= 35 else 0)
+    #data['height'] = data.height.map(lambda i: re.sub('[^0-9]','',i)).map(lambda i: float(i[0])*12 + float(i[1:])/10)
+    #data['bmi'] = data.weight / data.height.map(lambda i: i**2) * 703
+    #data = data.loc[(data.weight >0) & (data.height > 0),:]
+    data = data.loc[data.sex.isin(['Male','Female']),:]
+    #data['label'] = data.bmi.map(lambda i: '1_bmi_over_30' if i > 30 else '0_bmi_below_30')
+    data['label'] = data.sex.map(lambda i: 1 if i == 'Male' else 0)
 
     in_train = np.random.uniform(size = len(data)) < IN_TRAIN_RATIO
 
@@ -111,10 +115,10 @@ print('check if gpu is present...')
 
 device_lib.list_local_devices()
 
-my_print('start training')
+print('start training...')
 
 try:
-    model = load_model('./saved_model/{}.h5'.format(model_name))
+    model = load_model(model_path)
     print('load model')
 except:
     print('start a new model')
@@ -140,16 +144,12 @@ except:
 train_datagen=ImageDataGenerator(
 	preprocessing_function=preprocess_input,
 	rotation_range = 30,
-    width_shift_range=0.15,
-    height_shift_range=0.15,
-	shear_range = 0.15,
-	zoom_range = 0.15,
+	shear_range = 10,
+	zoom_range = [1,1.25],
 	horizontal_flip = True, 
 	vertical_flip = True) 
 
-valid_datagen = ImageDataGenerator(preprocessing_function=preprocess_input)
-
-ckp = ModelCheckpoint('./saved_model/{}.h5'.format(model_name),
+ckp = ModelCheckpoint(model_path,
     save_best_only=True, 
     save_weights_only=False)  
 es = EarlyStopping(patience = PATIENCE)
@@ -162,7 +162,7 @@ train_generator=train_datagen.flow_from_directory(TRAIN_PATH,
                                                  class_mode='categorical',
                                                  shuffle=True)
 
-valid_generator=valid_datagen.flow_from_directory(VALID_PATH,
+valid_generator=train_datagen.flow_from_directory(VALID_PATH,
                                                  target_size=(224,224),
                                                  color_mode='rgb',
                                                  batch_size=32,
