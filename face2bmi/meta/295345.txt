@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            548263
+        |
+Name: 
+            ERLALY TI-NGA ANDERSON
+        |
+Book Date: 
+            6/16/2019 12:12:06 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            48
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            220
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

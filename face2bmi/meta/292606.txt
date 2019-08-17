@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1168256
+        |
+Name: 
+            KENDRICK WINDSOR SPEIGHT
+        |
+Book Date: 
+            4/28/2019 12:08:03 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            61
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            173
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

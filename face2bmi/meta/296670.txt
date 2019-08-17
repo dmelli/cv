@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1084401
+        |
+Name: 
+            AUSTON DILLON SANGXAYARATH
+        |
+Book Date: 
+            7/9/2019 11:28:08 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            20
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            155
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            640587
+        |
+Name: 
+            TREVAR NATHANEAL RIPPEY
+        |
+Book Date: 
+            3/13/2019 12:17:33 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Brown
+        

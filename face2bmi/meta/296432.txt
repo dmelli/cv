@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            605793
+        |
+Name: 
+            SHANGAB JORJO MASSO
+        |
+Book Date: 
+            7/5/2019 10:41:24 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            20
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            150
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

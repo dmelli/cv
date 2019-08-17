@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1237103
+        |
+Name: 
+            PATRICK MICHAEL BLACKFORD
+        |
+Book Date: 
+            5/15/2019 12:11:11 AM
+                
+        |
+City: 
+            INDEPENDENCE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            435582
+        |
+Name: 
+            JESSE JAMES WILLIAM BAKER
+        |
+Book Date: 
+            4/24/2019 5:45:27 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1171367
+        |
+Name: 
+            CLAUDE ROBERT CHIEF EAGLE
+        |
+Book Date: 
+            7/19/2019 1:10:01 AM
+                
+        |
+City: 
+            , 
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            38
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            240
+        |
+Race: 
+            Pacific Islander
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

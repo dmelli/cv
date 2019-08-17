@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            553804
+        |
+Name: 
+            BOBBIE SUE FLYNN
+        |
+Book Date: 
+            8/2/2019 11:19:25 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            38
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            279474
+        |
+Name: 
+            PATTI SUE SWANSON
+        |
+Book Date: 
+            7/8/2019 3:37:55 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            55
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            158
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

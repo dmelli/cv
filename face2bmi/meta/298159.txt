@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1006241
+        |
+Name: 
+            BRIAN RICHARD HOFF
+        |
+Book Date: 
+            8/3/2019 3:57:17 AM
+                
+        |
+City: 
+            ALTOONA, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            41
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            220
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Blonde
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1226750
+        |
+Name: 
+            BRADLEY JARED TIMM
+        |
+Book Date: 
+            7/24/2019 11:17:55 AM
+                
+        |
+City: 
+            SWISHER, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            45
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Black
+        

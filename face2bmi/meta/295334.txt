@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            105315
+        |
+Name: 
+            TEODORO  ALONSO
+        |
+Book Date: 
+            6/16/2019 2:53:49 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            27
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

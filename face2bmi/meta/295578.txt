@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            378745
+        |
+Name: 
+            JULIE ANN OSBORN
+        |
+Book Date: 
+            6/20/2019 1:53:41 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            47
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            315
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Sand
+        

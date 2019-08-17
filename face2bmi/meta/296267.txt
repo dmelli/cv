@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1015793
+        |
+Name: 
+            SEAN AUSTIN VOLZ
+        |
+Book Date: 
+            7/2/2019 9:30:39 AM
+                
+        |
+City: 
+            GRANGER, IA
+        |
+Holding Location: 
+            Marshal County Jail -Male
+        |
+Age: 
+            21
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            155
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

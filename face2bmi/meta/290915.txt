@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            108466
+        |
+Name: 
+            OLENTHUS RENNACE LONG
+        |
+Book Date: 
+            3/31/2019 4:21:15 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            36
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            205
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

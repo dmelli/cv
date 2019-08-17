@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            646963
+        |
+Name: 
+            ANDREW WILLIAM LAPPE
+        |
+Book Date: 
+            6/3/2019 9:28:28 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            25
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            142
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            191296
+        |
+Name: 
+            SANDRAUEL MARIEUEL TIDWELL
+        |
+Book Date: 
+            6/12/2019 4:02:58 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            43
+        |
+Height: 
+            5' 02"
+        |
+Weight: 
+            235
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

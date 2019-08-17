@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1182321
+        |
+Name: 
+            TERRANCE LAMONT DAUGHERTY
+        |
+Book Date: 
+            7/31/2019 10:52:06 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            38
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            260
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

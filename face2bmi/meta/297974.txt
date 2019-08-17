@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            113064
+        |
+Name: 
+            CONNIE JO WAYMAN
+        |
+Book Date: 
+            7/31/2019 5:16:07 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            63
+        |
+Height: 
+            5' 02"
+        |
+Weight: 
+            120
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

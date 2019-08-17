@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            43274
+        |
+Name: 
+            CLARENCE  LEE
+        |
+Book Date: 
+            6/19/2019 12:40:08 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            55
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            180
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

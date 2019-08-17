@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1233981
+        |
+Name: 
+            KIRK TERRELL MACMILLAN
+        |
+Book Date: 
+            5/13/2019 4:42:04 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            31
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Brown
+        

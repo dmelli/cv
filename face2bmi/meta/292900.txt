@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1097974
+        |
+Name: 
+            ALEXIS JESUS PAREDES
+        |
+Book Date: 
+            5/3/2019 4:42:42 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            21
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

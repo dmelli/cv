@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            666819
+        |
+Name: 
+            CODY ALLEN GREGSON
+        |
+Book Date: 
+            8/3/2019 5:01:43 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            31
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            49954
+        |
+Name: 
+            NATHAN ANDREW WENDELL ALFRED SWINTON
+        |
+Book Date: 
+            6/1/2019 11:38:50 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            33
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

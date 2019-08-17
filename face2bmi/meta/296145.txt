@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            836331
+        |
+Name: 
+            MORICE DREW JONES
+        |
+Book Date: 
+            6/29/2019 7:10:42 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            49
+        |
+Height: 
+            6' 03"
+        |
+Weight: 
+            250
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Bald
+        

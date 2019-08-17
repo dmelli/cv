@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1241011
+        |
+Name: 
+            HECTOR WALLY HASSAM MERCADO LOPEZ
+        |
+Book Date: 
+            6/7/2019 2:47:40 AM
+                
+        |
+City: 
+            CHICAGO, IL
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            28
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            220
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

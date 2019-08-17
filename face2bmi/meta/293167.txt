@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            367503
+        |
+Name: 
+            DOMENIK DESHAWN KINLEY
+        |
+Book Date: 
+            5/8/2019 8:47:10 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            18
+        |
+Height: 
+            6' 03"
+        |
+Weight: 
+            220
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

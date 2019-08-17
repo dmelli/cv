@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            442849
+        |
+Name: 
+            MORGAN JAYNE BAKER
+        |
+Book Date: 
+            6/5/2019 8:22:03 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            18
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            130
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

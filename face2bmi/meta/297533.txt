@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            55860
+        |
+Name: 
+            MICHAEL FRANK BROUILLET
+        |
+Book Date: 
+            7/25/2019 5:47:18 AM
+                
+        |
+City: 
+            DELAWARE TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            48
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            175
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Black
+        

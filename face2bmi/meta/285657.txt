@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            456008
+        |
+Name: 
+            BRENT KEVIN ALLEN
+        |
+Book Date: 
+            12/21/2018 8:28:26 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            39
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

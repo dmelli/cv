@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1064244
+        |
+Name: 
+            GACHBAACH SIMON BILIM
+        |
+Book Date: 
+            6/13/2019 2:40:29 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            19
+        |
+Height: 
+            6' 07"
+        |
+Weight: 
+            170
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

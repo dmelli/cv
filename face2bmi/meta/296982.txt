@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1190009
+        |
+Name: 
+            DARLIN LEONEL SANCHEZ VALLECIO
+        |
+Book Date: 
+            7/15/2019 5:27:51 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            19
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

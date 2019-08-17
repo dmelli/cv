@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            466284
+        |
+Name: 
+            CURTIS ANDREAS HILL QUIJANO
+        |
+Book Date: 
+            6/26/2019 9:36:43 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            270
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

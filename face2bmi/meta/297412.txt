@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            654219
+        |
+Name: 
+            SETH DANIEL TIMMER
+        |
+Book Date: 
+            7/23/2019 10:28:24 AM
+                
+        |
+City: 
+            LE GRAND, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            28
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

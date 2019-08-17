@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1049127
+        |
+Name: 
+            TYLOR ALLEN SHARP
+        |
+Book Date: 
+            1/30/2019 1:54:30 PM
+                
+        |
+City: 
+            PLEASANT HILL, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            22
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            204
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

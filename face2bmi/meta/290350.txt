@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            95484
+        |
+Name: 
+            THOMAS PATRICK OLOFSON
+        |
+Book Date: 
+            3/22/2019 1:52:00 AM
+                
+        |
+City: 
+            DAWSON, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            41
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            690904
+        |
+Name: 
+            JAYNE AMBER DEZWARTE
+        |
+Book Date: 
+            7/18/2019 2:59:13 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            39
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            145
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

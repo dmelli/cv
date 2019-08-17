@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1235449
+        |
+Name: 
+            LUIS ANGEL PINEDA
+        |
+Book Date: 
+            7/23/2019 5:02:55 PM
+                
+        |
+City: 
+            MARSHALLTOWN, IA
+        |
+Holding Location: 
+            Marshal County Jail -Male
+        |
+Age: 
+            21
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            145
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

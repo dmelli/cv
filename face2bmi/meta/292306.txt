@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            208994
+        |
+Name: 
+            JEFFREY DAVID BEERY
+        |
+Book Date: 
+            4/23/2019 4:04:47 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            55
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            155
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Gray
+        

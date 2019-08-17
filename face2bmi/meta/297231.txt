@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            273170
+        |
+Name: 
+            KENNETH MERLE RUBY
+        |
+Book Date: 
+            7/19/2019 4:38:15 PM
+                
+        |
+City: 
+            LAS VEGAS, NE
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            38
+        |
+Height: 
+            5' 02"
+        |
+Weight: 
+            115
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

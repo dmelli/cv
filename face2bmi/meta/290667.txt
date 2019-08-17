@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            826910
+        |
+Name: 
+            WILLIAM CHARLES GRAY
+        |
+Book Date: 
+            3/27/2019 6:31:26 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            22
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            160
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

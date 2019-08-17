@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1061667
+        |
+Name: 
+            AARON ALEC WILLIAMS
+        |
+Book Date: 
+            6/12/2019 1:29:06 AM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            Marshal County Jail -Male
+        |
+Age: 
+            38
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

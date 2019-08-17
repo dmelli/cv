@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            60897
+        |
+Name: 
+            RICHARD LAVAN WAGNER
+        |
+Book Date: 
+            3/24/2019 9:12:38 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            190
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

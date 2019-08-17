@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            308368
+        |
+Name: 
+            ZACHARY HARRISON GOGERTY
+        |
+Book Date: 
+            7/24/2019 10:18:06 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            30
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

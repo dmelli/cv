@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            504865
+        |
+Name: 
+            JOHN JOSEPH MOYLE
+        |
+Book Date: 
+            6/13/2019 1:50:06 PM
+                
+        |
+City: 
+            REDFIELD, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            36
+        |
+Height: 
+            6' 03"
+        |
+Weight: 
+            204
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

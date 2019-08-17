@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            44697
+        |
+Name: 
+            HUY TUAN HUYNH
+        |
+Book Date: 
+            7/29/2019 1:12:52 PM
+                
+        |
+City: 
+            JOHNSTON, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            42
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            125
+        |
+Race: 
+            Asian
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

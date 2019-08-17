@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            830553
+        |
+Name: 
+            ERIC JAMES COLLINS
+        |
+Book Date: 
+            7/13/2019 4:35:00 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            26
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            190
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

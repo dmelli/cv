@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            20535
+        |
+Name: 
+            RICHARD FORSTIER ADAIR
+        |
+Book Date: 
+            6/21/2019 2:51:09 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            40
+        |
+Height: 
+            6' 04"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

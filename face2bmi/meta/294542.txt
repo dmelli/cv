@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            236760
+        |
+Name: 
+            MATTHEW ALLEN CONNETT
+        |
+Book Date: 
+            6/2/2019 8:43:20 AM
+                
+        |
+City: 
+            KAMRAR, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            33
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            165
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

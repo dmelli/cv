@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1242761
+        |
+Name: 
+            CHARLES LAKEYRIC FUNCHES
+        |
+Book Date: 
+            6/16/2019 9:08:42 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            38
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            170
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

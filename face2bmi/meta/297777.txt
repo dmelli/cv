@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            191887
+        |
+Name: 
+            KATIE JEAN MILLER
+        |
+Book Date: 
+            7/29/2019 4:29:54 AM
+                
+        |
+City: 
+            ALTOONA, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            27
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

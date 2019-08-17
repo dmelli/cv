@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1171994
+        |
+Name: 
+            SHEILA MARIE HAMPTON
+        |
+Book Date: 
+            7/26/2019 8:34:00 AM
+                
+        |
+City: 
+            WEST DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            50
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            230
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

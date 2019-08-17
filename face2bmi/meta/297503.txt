@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1051124
+        |
+Name: 
+            JASON ALLAN BROWNING
+        |
+Book Date: 
+            7/24/2019 6:10:24 PM
+                
+        |
+City: 
+            URBANDALE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            41
+        |
+Height: 
+            6' 60"
+        |
+Weight: 
+            205
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Brown
+        

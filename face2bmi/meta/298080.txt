@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            152675
+        |
+Name: 
+            CHARLES ERNEST MAYNARD
+        |
+Book Date: 
+            8/2/2019 12:09:12 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            38
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

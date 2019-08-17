@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            118363
+        |
+Name: 
+            ALFRED EUGENE CLEMENTS
+        |
+Book Date: 
+            7/13/2019 4:39:57 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            58
+        |
+Height: 
+            5' 03"
+        |
+Weight: 
+            170
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

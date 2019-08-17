@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            983028
+        |
+Name: 
+            BRIAN JAZZ SPAIN
+        |
+Book Date: 
+            8/2/2019 9:41:22 AM
+                
+        |
+City: 
+            WEST DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            26
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            250
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

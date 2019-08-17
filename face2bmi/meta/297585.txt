@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            890626
+        |
+Name: 
+            JEANNETTE MARIE BEAR
+        |
+Book Date: 
+            7/25/2019 9:15:28 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            26
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            130
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

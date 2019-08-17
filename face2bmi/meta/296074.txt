@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            425991
+        |
+Name: 
+            DANIEL JAY KADING
+        |
+Book Date: 
+            6/28/2019 12:49:16 PM
+                
+        |
+City: 
+            KNOXVILLE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            160
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

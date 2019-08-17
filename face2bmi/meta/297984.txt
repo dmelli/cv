@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            180491
+        |
+Name: 
+            STEVEN DALE JONS
+        |
+Book Date: 
+            7/31/2019 8:22:25 PM
+                
+        |
+City: 
+            WESTSIDE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            64
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            210
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Gray
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            492949
+        |
+Name: 
+            CAMERON MYKEL SLOTHOUBER
+        |
+Book Date: 
+            7/20/2019 3:27:19 AM
+                
+        |
+City: 
+            JOHNSTON, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            175
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            607721
+        |
+Name: 
+            RAMI AUGUSTINO TOMBE
+        |
+Book Date: 
+            7/26/2019 12:34:34 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            Story County - Male
+        |
+Age: 
+            23
+        |
+Height: 
+            6' 04"
+        |
+Weight: 
+            185
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

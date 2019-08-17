@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            89548
+        |
+Name: 
+            MEGGEN ANNE RICHARDS
+        |
+Book Date: 
+            5/28/2019 6:51:12 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            28
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            205
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

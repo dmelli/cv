@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            424878
+        |
+Name: 
+            ARMANDO JOSE ALVAREZ
+        |
+Book Date: 
+            7/23/2019 11:19:02 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            30
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            155
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

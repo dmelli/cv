@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            987725
+        |
+Name: 
+            JULIANO  LOPEZ DEJESUS
+        |
+Book Date: 
+            7/17/2019 4:06:10 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            27
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            200
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1191482
+        |
+Name: 
+            ROBERT LEO WATSON
+        |
+Book Date: 
+            4/30/2019 11:57:28 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            54
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            285
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Red
+        

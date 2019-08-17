@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            58018
+        |
+Name: 
+            LISA DIANE DANG
+        |
+Book Date: 
+            7/25/2019 5:25:25 PM
+                
+        |
+City: 
+            AMES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            50
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            110
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Blonde
+        

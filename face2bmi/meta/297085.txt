@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1237944
+        |
+Name: 
+            MARVIN OSWALDO ESQUIVEL LOPEZ
+        |
+Book Date: 
+            7/17/2019 12:34:50 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            31
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            130
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

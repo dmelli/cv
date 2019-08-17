@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1232824
+        |
+Name: 
+            AKEEM YAUMAZE TROTTER
+        |
+Book Date: 
+            6/14/2019 10:13:58 PM
+                
+        |
+City: 
+            FORT MADISON, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            25
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            195
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

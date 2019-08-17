@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            98550
+        |
+Name: 
+            KYLE ROBERT LINCOLN
+        |
+Book Date: 
+            12/17/2018 11:08:04 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            35
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            198
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

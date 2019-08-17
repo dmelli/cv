@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            319882
+        |
+Name: 
+            JENNY JOANN HASS
+        |
+Book Date: 
+            7/10/2019 1:59:25 PM
+                
+        |
+City: 
+            PLEASANT HILL, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            139
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

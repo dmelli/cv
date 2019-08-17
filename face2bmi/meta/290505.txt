@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            492921
+        |
+Name: 
+            SHANIE  MOORE
+        |
+Book Date: 
+            3/24/2019 10:08:32 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            Oakdale Prison
+        |
+Age: 
+            41
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            130
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

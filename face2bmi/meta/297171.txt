@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1108299
+        |
+Name: 
+            KELCI MAY DELINE
+        |
+Book Date: 
+            7/18/2019 7:11:13 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            22
+        |
+Height: 
+            5' 02"
+        |
+Weight: 
+            100
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

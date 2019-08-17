@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            349469
+        |
+Name: 
+            MYRON DESHAWN NEWTON
+        |
+Book Date: 
+            7/18/2019 10:08:47 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            36
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            140
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

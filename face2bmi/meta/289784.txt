@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            96177
+        |
+Name: 
+            BRIAN LEROY JEFFRIES
+        |
+Book Date: 
+            3/12/2019 2:14:56 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            54
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            201
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Bald
+        

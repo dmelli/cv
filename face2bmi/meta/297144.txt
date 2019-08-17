@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            141501
+        |
+Name: 
+            JIMMY DALE LEAF
+        |
+Book Date: 
+            7/18/2019 10:14:10 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            48
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            165
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

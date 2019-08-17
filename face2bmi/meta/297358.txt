@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            206869
+        |
+Name: 
+            BRANDON PAUL HARRISON
+        |
+Book Date: 
+            7/22/2019 3:54:33 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            39
+        |
+Height: 
+            6' 03"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

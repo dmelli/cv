@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            3499
+        |
+Name: 
+            DONALD WAYNE SMITH
+        |
+Book Date: 
+            8/1/2019 3:29:09 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            54
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            190
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Brown
+        

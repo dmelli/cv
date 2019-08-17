@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            53136
+        |
+Name: 
+            SHAWN ANN FAGEN
+        |
+Book Date: 
+            8/2/2019 11:20:36 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            48
+        |
+Height: 
+            5' 02"
+        |
+Weight: 
+            290
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

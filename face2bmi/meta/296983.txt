@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            689015
+        |
+Name: 
+            BRANDON JAY DAVIS
+        |
+Book Date: 
+            7/15/2019 5:38:15 PM
+                
+        |
+City: 
+            WAUKON, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

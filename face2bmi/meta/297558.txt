@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            335779
+        |
+Name: 
+            COLE EDWARD WEST
+        |
+Book Date: 
+            7/25/2019 1:13:16 PM
+                
+        |
+City: 
+            NORWALK, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            27
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            210
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

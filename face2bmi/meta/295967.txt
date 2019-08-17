@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1082437
+        |
+Name: 
+            DAVID NICKIE PHILPOT
+        |
+Book Date: 
+            6/26/2019 4:34:26 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            18
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            156
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

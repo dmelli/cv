@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1178772
+        |
+Name: 
+            JOSEPH SCOT WILLIAMS
+        |
+Book Date: 
+            7/15/2019 4:44:55 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            25
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            175
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

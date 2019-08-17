@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            680272
+        |
+Name: 
+            JAYDEN SIDNEY STRAIGHT
+        |
+Book Date: 
+            8/31/2018 12:12:14 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            18
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            125
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

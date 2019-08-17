@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            75759
+        |
+Name: 
+            WILLIAM EDGAR BURTON
+        |
+Book Date: 
+            9/20/2018 3:14:37 PM
+                
+        |
+City: 
+            INDIANOLA, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            47
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            280
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

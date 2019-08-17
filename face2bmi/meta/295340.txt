@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            19689
+        |
+Name: 
+            JOSEPH ROBERT POOLE SHOLLEY
+        |
+Book Date: 
+            6/16/2019 5:14:32 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            35
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            154
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

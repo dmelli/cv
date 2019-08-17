@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1172194
+        |
+Name: 
+            TIFFANY LYNN SEDDON
+        |
+Book Date: 
+            5/1/2019 8:38:07 AM
+                
+        |
+City: 
+            BLOOMFIELD, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            5' 03"
+        |
+Weight: 
+            120
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

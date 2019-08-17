@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1103720
+        |
+Name: 
+            TYLER EAGLE FREEMONT
+        |
+Book Date: 
+            3/3/2019 12:00:28 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            28
+        |
+Height: 
+            6' 05"
+        |
+Weight: 
+            310
+        |
+Race: 
+            Pacific Islander
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

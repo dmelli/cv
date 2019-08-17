@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            46823
+        |
+Name: 
+            LAVERN DEAN MACK
+        |
+Book Date: 
+            7/18/2019 2:52:19 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            57
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Gray
+        

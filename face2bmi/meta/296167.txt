@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            143990
+        |
+Name: 
+            JAMIE ALLEN BEESON
+        |
+Book Date: 
+            6/30/2019 3:06:00 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            45
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            182
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

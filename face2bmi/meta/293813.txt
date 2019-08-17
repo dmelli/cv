@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            823288
+        |
+Name: 
+            ERICA CHRISTINE PETERSON
+        |
+Book Date: 
+            5/20/2019 1:56:33 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            130
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

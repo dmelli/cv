@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            219787
+        |
+Name: 
+            WILLIAM JESS BUTCHER
+        |
+Book Date: 
+            8/1/2019 5:45:53 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            35
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            190
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

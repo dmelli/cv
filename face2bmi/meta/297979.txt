@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1250450
+        |
+Name: 
+            ADAM CHARLES TODD
+        |
+Book Date: 
+            7/31/2019 6:07:59 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            39
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            220
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

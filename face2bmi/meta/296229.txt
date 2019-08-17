@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            51616
+        |
+Name: 
+            SIMEON SHANE MIHOCES
+        |
+Book Date: 
+            7/1/2019 3:10:31 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            41
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

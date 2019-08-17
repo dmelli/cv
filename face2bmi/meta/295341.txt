@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            813890
+        |
+Name: 
+            QWAME MIZON ANTWON DAVIS
+        |
+Book Date: 
+            6/16/2019 8:12:49 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            18
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            150
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

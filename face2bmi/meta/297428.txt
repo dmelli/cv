@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1057154
+        |
+Name: 
+            ADAM LEE THOMPSON
+        |
+Book Date: 
+            7/23/2019 5:42:31 PM
+                
+        |
+City: 
+            ALTOONA, IA
+        |
+Holding Location: 
+            Story County - Male
+        |
+Age: 
+            36
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

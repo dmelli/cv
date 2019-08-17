@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1240452
+        |
+Name: 
+            MICHAEL WAYNE LOVETT
+        |
+Book Date: 
+            7/7/2019 8:35:15 PM
+                
+        |
+City: 
+            NEWTON, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            37
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            165
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

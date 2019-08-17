@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            678728
+        |
+Name: 
+            ERIC ISAIAH MCINTYRE
+        |
+Book Date: 
+            7/28/2019 7:12:33 PM
+                
+        |
+City: 
+            WEST DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            30
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            190
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

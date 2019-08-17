@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            690347
+        |
+Name: 
+            SETH ANDREW VANDYGRIFF
+        |
+Book Date: 
+            8/1/2019 5:38:04 AM
+                
+        |
+City: 
+            COLFAX, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            25
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            186
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

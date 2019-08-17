@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            793122
+        |
+Name: 
+            MORGAN DETTE PETRIE LITTLE
+        |
+Book Date: 
+            5/2/2019 4:25:19 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            25
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            130
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Blonde
+        

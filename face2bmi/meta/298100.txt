@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            163384
+        |
+Name: 
+            DOUGLAS EDWARD CADOTTE
+        |
+Book Date: 
+            8/2/2019 10:35:09 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            46
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            220
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

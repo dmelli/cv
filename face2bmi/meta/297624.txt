@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            456502
+        |
+Name: 
+            DARRELL DEAN SHOLLEY
+        |
+Book Date: 
+            7/26/2019 12:55:55 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            49
+        |
+Height: 
+            5' 03"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

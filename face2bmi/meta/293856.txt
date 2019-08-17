@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            609109
+        |
+Name: 
+            SHARON JO EASTER
+        |
+Book Date: 
+            5/21/2019 10:09:41 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            69
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            220
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            White
+        

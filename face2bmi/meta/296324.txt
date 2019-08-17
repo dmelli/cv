@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            454601
+        |
+Name: 
+            STEVEN WAYNE SIX
+        |
+Book Date: 
+            7/3/2019 6:46:54 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            56
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            162
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Gray
+        

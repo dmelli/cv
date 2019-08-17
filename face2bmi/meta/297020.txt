@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1247747
+        |
+Name: 
+            MANUEL DEJESUS MATEO ENAMORADO
+        |
+Book Date: 
+            7/16/2019 4:51:43 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            39
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

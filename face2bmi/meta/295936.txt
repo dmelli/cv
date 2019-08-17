@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            23770
+        |
+Name: 
+            CHAD WESLEY WELBORN
+        |
+Book Date: 
+            6/26/2019 9:50:00 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            41
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

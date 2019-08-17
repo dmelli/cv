@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            858321
+        |
+Name: 
+            NATHANIEL MARTELL ACRI JOHNSON
+        |
+Book Date: 
+            7/12/2019 5:03:02 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            21
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            160
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            165696
+        |
+Name: 
+            SHANIQUA TA`SHAE GULLY
+        |
+Book Date: 
+            7/10/2019 4:44:02 PM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            28
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            160
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

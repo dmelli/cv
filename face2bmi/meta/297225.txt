@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            989352
+        |
+Name: 
+            DYLON ALEX JOSEPH STEPHENSON
+        |
+Book Date: 
+            7/19/2019 1:40:53 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            21
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            179
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

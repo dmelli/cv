@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1159157
+        |
+Name: 
+            ROBERT ISSAC SHIELDS
+        |
+Book Date: 
+            5/20/2019 2:11:07 PM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            20
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

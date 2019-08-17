@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1137724
+        |
+Name: 
+            TRISTAN DOUGLAS LOVELL
+        |
+Book Date: 
+            4/24/2019 1:21:38 AM
+                
+        |
+City: 
+            URBANDALE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            18
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

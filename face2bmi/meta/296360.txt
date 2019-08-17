@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            671743
+        |
+Name: 
+            MATTHEW PAUL KLUVER
+        |
+Book Date: 
+            7/3/2019 8:52:16 PM
+                
+        |
+City: 
+            BONDURANT, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            42
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            230
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            227285
+        |
+Name: 
+            DASHALIQUE ARENISE JACKSON
+        |
+Book Date: 
+            7/6/2019 2:15:07 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            19
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            130
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

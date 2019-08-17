@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            714352
+        |
+Name: 
+            ROMAN REGGAE TREE
+        |
+Book Date: 
+            7/14/2019 6:57:24 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            25
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            145
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

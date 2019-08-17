@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1134674
+        |
+Name: 
+            DARRIAN TREMAINE SCOTT
+        |
+Book Date: 
+            6/26/2019 2:13:31 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            22
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            285
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            577255
+        |
+Name: 
+            ROBERT JACK SCOTT
+        |
+Book Date: 
+            7/22/2019 3:15:54 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            MARION-M  
+        |
+Age: 
+            22
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            125
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

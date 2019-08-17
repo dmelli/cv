@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1250442
+        |
+Name: 
+            JOSEPH ANTHONY PASUT
+        |
+Book Date: 
+            7/31/2019 4:51:49 PM
+                
+        |
+City: 
+            WINDSOR HEIGHTS, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            155
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

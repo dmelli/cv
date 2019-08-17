@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1190544
+        |
+Name: 
+            BRIAN JAMES SMITH
+        |
+Book Date: 
+            7/11/2019 5:15:23 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            CLARK-M   
+        |
+Age: 
+            45
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1230793
+        |
+Name: 
+            CONNY LEE MILES
+        |
+Book Date: 
+            7/25/2019 3:10:20 PM
+                
+        |
+City: 
+            WEST DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            33
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            140
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

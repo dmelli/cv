@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            213077
+        |
+Name: 
+            SHAWN EUGUENE PETEFISH
+        |
+Book Date: 
+            7/30/2019 12:59:19 AM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            50
+        |
+Height: 
+            6' 03"
+        |
+Weight: 
+            207
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

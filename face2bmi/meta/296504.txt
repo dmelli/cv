@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            10385
+        |
+Name: 
+            ROBERT LEE MILLSAP
+        |
+Book Date: 
+            7/7/2019 1:19:35 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            53
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            240
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Gray
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            309146
+        |
+Name: 
+            CHAD WILLIAM CLARK
+        |
+Book Date: 
+            6/27/2019 8:21:00 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            6' 06"
+        |
+Weight: 
+            250
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

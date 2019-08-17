@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            588002
+        |
+Name: 
+            KELLIE RENEE KNAPP
+        |
+Book Date: 
+            3/21/2019 11:28:33 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            130
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

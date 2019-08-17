@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1127732
+        |
+Name: 
+            SADIE MAE ADA MILLER
+        |
+Book Date: 
+            5/22/2019 3:55:48 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            CFR-F     
+        |
+Age: 
+            31
+        |
+Height: 
+            5' 03"
+        |
+Weight: 
+            145
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

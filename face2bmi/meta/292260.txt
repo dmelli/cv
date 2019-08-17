@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            166467
+        |
+Name: 
+            RICK EUGENE ARNOLD
+        |
+Book Date: 
+            4/23/2019 1:09:18 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            42
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            270
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

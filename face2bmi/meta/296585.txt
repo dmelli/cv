@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            437511
+        |
+Name: 
+            TIMOTHY EDWARD SMITH
+        |
+Book Date: 
+            7/8/2019 5:05:22 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            165
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

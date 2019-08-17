@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            741537
+        |
+Name: 
+            FRANKLIN LEE HARRIS
+        |
+Book Date: 
+            6/30/2019 4:15:47 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            62
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            180
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Bald
+        

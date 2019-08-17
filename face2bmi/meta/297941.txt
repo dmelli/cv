@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            515515
+        |
+Name: 
+            RACHELLE MARIE STALKER
+        |
+Book Date: 
+            7/31/2019 10:57:03 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            46
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

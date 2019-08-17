@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1182648
+        |
+Name: 
+            MYRON DEMON NICHOLS
+        |
+Book Date: 
+            8/2/2019 1:22:47 AM
+                
+        |
+City: 
+            SAYLOR TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            20
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            190
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

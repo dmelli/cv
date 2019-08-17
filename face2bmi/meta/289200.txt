@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1179842
+        |
+Name: 
+            LAURA MARIE OLIVE
+        |
+Book Date: 
+            3/1/2019 2:26:15 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            40
+        |
+Height: 
+            5' 03"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

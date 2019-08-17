@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            61055
+        |
+Name: 
+            LARRY SAURRY GOLSTON
+        |
+Book Date: 
+            5/23/2019 10:58:58 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            65
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            180
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Bald
+        

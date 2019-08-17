@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            788508
+        |
+Name: 
+            JASON JAMES HALSBAND
+        |
+Book Date: 
+            7/30/2019 3:48:33 PM
+                
+        |
+City: 
+            SAYLOR TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            41
+        |
+Height: 
+            6' 03"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

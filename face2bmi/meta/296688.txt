@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1084745
+        |
+Name: 
+            LAZEKE  SOUTHWARD
+        |
+Book Date: 
+            7/10/2019 12:04:15 PM
+                
+        |
+City: 
+            WEST DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            30
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            142
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

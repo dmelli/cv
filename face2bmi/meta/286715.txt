@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            971869
+        |
+Name: 
+            FERID  HODZIC
+        |
+Book Date: 
+            1/11/2019 1:53:07 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            250
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

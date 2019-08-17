@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            601867
+        |
+Name: 
+            JENSEN ELLIOTT SHOEMAKER
+        |
+Book Date: 
+            6/17/2019 8:15:56 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            165
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

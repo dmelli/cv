@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1207523
+        |
+Name: 
+            JACKIE STEFANNY CHIMBAY
+        |
+Book Date: 
+            6/18/2019 11:45:28 AM
+                
+        |
+City: 
+            WINDSOR HEIGHTS, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            21
+        |
+Height: 
+            4' 11"
+        |
+Weight: 
+            120
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

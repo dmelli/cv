@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            123066
+        |
+Name: 
+            JARED EARL KEITH WILLIAMS
+        |
+Book Date: 
+            7/27/2019 4:18:15 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            31
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            135
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

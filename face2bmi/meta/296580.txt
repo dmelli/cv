@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            713373
+        |
+Name: 
+            LOGAN PATRICK DEAN
+        |
+Book Date: 
+            7/8/2019 4:27:37 PM
+                
+        |
+City: 
+            JOHNSTON, IA
+        |
+Holding Location: 
+            Marshal County Jail -Male
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

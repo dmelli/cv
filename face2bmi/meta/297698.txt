@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            32950
+        |
+Name: 
+            JEFFREY ALLEN WELCH
+        |
+Book Date: 
+            7/27/2019 6:13:11 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            205
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

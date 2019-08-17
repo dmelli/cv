@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            578783
+        |
+Name: 
+            BETTY DIANE RIVAS
+        |
+Book Date: 
+            5/16/2019 12:24:00 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            235
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

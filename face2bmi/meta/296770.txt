@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1191731
+        |
+Name: 
+            JOHN DAVID GROOMS
+        |
+Book Date: 
+            7/11/2019 1:51:49 PM
+                
+        |
+City: 
+            POLK CITY, IA
+        |
+Holding Location: 
+            ELECTRON  
+        |
+Age: 
+            25
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

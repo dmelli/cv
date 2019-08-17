@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            632151
+        |
+Name: 
+            DESMOND LAQUAIN WALTON
+        |
+Book Date: 
+            6/19/2019 2:32:09 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            19
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            165
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

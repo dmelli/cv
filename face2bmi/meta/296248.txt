@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            990201
+        |
+Name: 
+            FREDRICK ANTHONY RONALD KNAPP
+        |
+Book Date: 
+            7/1/2019 8:42:56 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            205
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

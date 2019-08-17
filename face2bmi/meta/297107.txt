@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1248144
+        |
+Name: 
+            MELONIE RENEE MAHFOUZ
+        |
+Book Date: 
+            7/17/2019 5:31:15 PM
+                
+        |
+City: 
+            BOYTON BEACH, FL
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            42
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

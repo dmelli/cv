@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            56839
+        |
+Name: 
+            JAMAL SAAD ELAWAG
+        |
+Book Date: 
+            7/9/2019 3:22:35 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            Marshal County Jail -Male
+        |
+Age: 
+            33
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            230
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            863154
+        |
+Name: 
+            ALEXANDRIA MAE NEWTON
+        |
+Book Date: 
+            7/4/2019 9:06:41 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            23
+        |
+Height: 
+            5' 01"
+        |
+Weight: 
+            195
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

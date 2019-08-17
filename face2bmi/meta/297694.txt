@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            778062
+        |
+Name: 
+            JUAN ENRIQUE DELAGARZA
+        |
+Book Date: 
+            7/27/2019 4:12:14 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            CLARK-M   
+        |
+Age: 
+            62
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            210
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

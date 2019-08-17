@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            157265
+        |
+Name: 
+            ZACHARY JOSEPH SMITH
+        |
+Book Date: 
+            7/5/2019 11:50:17 PM
+                
+        |
+City: 
+            SAYLOR TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            22
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Blonde
+        

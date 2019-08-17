@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            879742
+        |
+Name: 
+            STEPHEN WAYNE TOLIVER
+        |
+Book Date: 
+            7/4/2019 10:21:55 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            33
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            160
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

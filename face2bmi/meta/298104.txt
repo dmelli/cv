@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            20540
+        |
+Name: 
+            JAMES LEE KLOPPENBURG
+        |
+Book Date: 
+            8/2/2019 12:26:13 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            33
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            175
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

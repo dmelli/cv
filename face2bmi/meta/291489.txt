@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            10970
+        |
+Name: 
+            DEANDRE RAYSHUN WOODEN
+        |
+Book Date: 
+            4/10/2019 4:05:18 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            150
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

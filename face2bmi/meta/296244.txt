@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            178565
+        |
+Name: 
+            AMBER SUE WARES
+        |
+Book Date: 
+            7/1/2019 8:18:50 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            35
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            162
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

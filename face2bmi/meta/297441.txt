@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1087947
+        |
+Name: 
+            JULIE ANN BERRY ADAMS
+        |
+Book Date: 
+            7/23/2019 9:48:52 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            35
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            190
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

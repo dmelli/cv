@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1177494
+        |
+Name: 
+            LUIS  PIZANO
+        |
+Book Date: 
+            6/15/2019 11:36:02 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            33
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            205
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

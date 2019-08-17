@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            61352
+        |
+Name: 
+            KATIE LYNN SCHMIDTKE
+        |
+Book Date: 
+            7/29/2019 7:19:17 PM
+                
+        |
+City: 
+            WEST DES  MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            155
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

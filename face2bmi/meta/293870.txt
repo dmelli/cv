@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            894832
+        |
+Name: 
+            ANDREW GRAY CAULKER
+        |
+Book Date: 
+            5/21/2019 2:59:00 PM
+                
+        |
+City: 
+            AMES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            180
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

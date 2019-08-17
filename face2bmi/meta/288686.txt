@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            79668
+        |
+Name: 
+            JUSTIN DONALD HUFFMAN
+        |
+Book Date: 
+            2/20/2019 1:15:28 AM
+                
+        |
+City: 
+            WAUKEE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            36
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

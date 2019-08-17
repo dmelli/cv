@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            49462
+        |
+Name: 
+            YEN  YANN
+        |
+Book Date: 
+            5/23/2019 11:19:17 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            43
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            160
+        |
+Race: 
+            Asian
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

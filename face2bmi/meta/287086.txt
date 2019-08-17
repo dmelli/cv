@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            51547
+        |
+Name: 
+            MARIO DUPRIE HUTCHINSON
+        |
+Book Date: 
+            1/18/2019 11:47:16 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            210
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

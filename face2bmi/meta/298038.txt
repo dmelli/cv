@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            97029
+        |
+Name: 
+            CHARLES EDWARD BITTNER
+        |
+Book Date: 
+            8/1/2019 1:43:28 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            50
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

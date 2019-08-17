@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            332166
+        |
+Name: 
+            JAMILA ALYSSE COLEMAN
+        |
+Book Date: 
+            7/13/2019 9:47:19 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            20
+        |
+Height: 
+            5' 00"
+        |
+Weight: 
+            110
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Black
+        

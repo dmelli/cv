@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1178349
+        |
+Name: 
+            LARRY EUGENE HOPKINS
+        |
+Book Date: 
+            7/18/2019 7:03:14 PM
+                
+        |
+City: 
+            JEWEL, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            33
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            220
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            219618
+        |
+Name: 
+            REGGIE LEE LOPEZ
+        |
+Book Date: 
+            7/29/2019 3:01:07 PM
+                
+        |
+City: 
+            WEST DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            40
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

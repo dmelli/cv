@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            952361
+        |
+Name: 
+            FAWSIA ADEN GEIRE
+        |
+Book Date: 
+            7/28/2019 3:42:22 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            25
+        |
+Height: 
+            5' 03"
+        |
+Weight: 
+            125
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

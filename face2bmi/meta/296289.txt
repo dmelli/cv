@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1121071
+        |
+Name: 
+            GRISELDA  SANCHEZ URQUIZA
+        |
+Book Date: 
+            7/2/2019 3:00:14 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            205
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

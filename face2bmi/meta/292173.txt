@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            329316
+        |
+Name: 
+            JEFFREY LEE DAWSON
+        |
+Book Date: 
+            4/21/2019 3:56:01 PM
+                
+        |
+City: 
+            SAYLOR TWP, IA
+        |
+Holding Location: 
+            Cherokee Mental Health
+        |
+Age: 
+            55
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            135
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Gray
+        

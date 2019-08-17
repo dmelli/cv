@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            240999
+        |
+Name: 
+            MICHAEL DEWAYNE DUTTLINGER
+        |
+Book Date: 
+            4/29/2019 8:56:02 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

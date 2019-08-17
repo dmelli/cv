@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1244805
+        |
+Name: 
+            MARCOS TEODORO VELARES GUAJIOLA
+        |
+Book Date: 
+            6/27/2019 1:03:26 PM
+                
+        |
+City: 
+            SALINA, KS
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            190
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

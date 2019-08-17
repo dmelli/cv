@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            939701
+        |
+Name: 
+            TREVER RAY VINZANT
+        |
+Book Date: 
+            6/16/2019 2:23:22 AM
+                
+        |
+City: 
+            CLAY TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            18
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            155
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Brown
+        

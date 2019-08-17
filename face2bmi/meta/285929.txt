@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            58784
+        |
+Name: 
+            EDWARD  MILLER
+        |
+Book Date: 
+            12/27/2018 4:32:01 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            52
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            225
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Bald
+        

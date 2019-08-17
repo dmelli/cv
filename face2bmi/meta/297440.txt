@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            557729
+        |
+Name: 
+            MONICA SUE MURRAY
+        |
+Book Date: 
+            7/23/2019 9:33:42 PM
+                
+        |
+City: 
+            BOONE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            56
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            180
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            623277
+        |
+Name: 
+            KATHERYN ELIZABETH DEMARANVILLE
+        |
+Book Date: 
+            7/2/2019 1:13:19 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            20
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

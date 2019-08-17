@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            658136
+        |
+Name: 
+            JIBRIL ALI YUSSUF
+        |
+Book Date: 
+            5/5/2019 5:03:19 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            30
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            180
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

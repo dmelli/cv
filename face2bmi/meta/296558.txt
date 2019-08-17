@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            139216
+        |
+Name: 
+            ANTHONY TYRONE NEWTON
+        |
+Book Date: 
+            7/8/2019 8:57:20 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            Marshal County Jail -Male
+        |
+Age: 
+            37
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            160
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

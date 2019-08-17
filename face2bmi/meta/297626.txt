@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            103222
+        |
+Name: 
+            RONALD MICHAEL WIESER
+        |
+Book Date: 
+            7/26/2019 2:14:42 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            38
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            902644
+        |
+Name: 
+            ERIC PAUL DINGES
+        |
+Book Date: 
+            7/15/2019 5:03:07 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            30
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

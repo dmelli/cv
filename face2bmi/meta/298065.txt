@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            84189
+        |
+Name: 
+            MINER ALLEN BROWN
+        |
+Book Date: 
+            8/1/2019 6:49:03 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            47
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

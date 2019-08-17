@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1214891
+        |
+Name: 
+            TANNER DOIAL WICKAM
+        |
+Book Date: 
+            7/12/2019 8:04:53 AM
+                
+        |
+City: 
+            KNOXVILLE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            27
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

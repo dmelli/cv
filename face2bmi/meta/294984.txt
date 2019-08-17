@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            907577
+        |
+Name: 
+            JONATHON CRAIG BUSHBY
+        |
+Book Date: 
+            6/10/2019 3:00:37 AM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            27
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

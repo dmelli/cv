@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            151522
+        |
+Name: 
+            GARRY LEEROY SUMMERS
+        |
+Book Date: 
+            7/30/2019 4:34:20 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            205
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

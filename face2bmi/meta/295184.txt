@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            319240
+        |
+Name: 
+            TIMOTHY ELDON KELLEY
+        |
+Book Date: 
+            6/13/2019 5:46:57 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            Marshal County Jail -Male
+        |
+Age: 
+            39
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

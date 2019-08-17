@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1229646
+        |
+Name: 
+            MARC ALAN PRESSWOOD
+        |
+Book Date: 
+            4/26/2019 7:40:02 PM
+                
+        |
+City: 
+            FORT DODGE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            37
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            200
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

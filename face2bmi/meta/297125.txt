@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            55300
+        |
+Name: 
+            JUSTIN RAY SOWDER
+        |
+Book Date: 
+            7/18/2019 2:27:15 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            28
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            205
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1156748
+        |
+Name: 
+            JOHN ALEXANDER TEMPLETON
+        |
+Book Date: 
+            5/14/2019 10:30:29 PM
+                
+        |
+City: 
+            WEST DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            19
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

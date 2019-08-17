@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            305698
+        |
+Name: 
+            ZACHARY SCOTT MACY
+        |
+Book Date: 
+            7/1/2019 2:01:51 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            30
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Brown
+        

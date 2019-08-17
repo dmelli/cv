@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            212065
+        |
+Name: 
+            KENNETH ALLEN GANOE
+        |
+Book Date: 
+            6/30/2019 2:28:16 AM
+                
+        |
+City: 
+            URBANDALE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            66
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Gray
+        

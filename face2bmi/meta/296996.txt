@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            270025
+        |
+Name: 
+            AARON JAYE PICKENS
+        |
+Book Date: 
+            7/15/2019 8:23:08 PM
+                
+        |
+City: 
+            SAYLOR TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            39
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            220
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Black
+        

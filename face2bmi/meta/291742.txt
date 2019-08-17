@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            55668
+        |
+Name: 
+            DAWN DENISE MABRIER
+        |
+Book Date: 
+            4/15/2019 1:42:33 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            40
+        |
+Height: 
+            4' 11"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

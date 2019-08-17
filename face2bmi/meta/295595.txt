@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            762064
+        |
+Name: 
+            BETTY SUE KOPE CRAWFORD
+        |
+Book Date: 
+            6/20/2019 4:35:59 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            40
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            212
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Red
+        

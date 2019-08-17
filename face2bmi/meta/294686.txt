@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            70944
+        |
+Name: 
+            ROYAL EUGENE ROBINSON
+        |
+Book Date: 
+            6/4/2019 11:07:28 PM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            66
+        |
+Height: 
+            6' 04"
+        |
+Weight: 
+            280
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Gray
+        

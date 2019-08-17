@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            118748
+        |
+Name: 
+            TASHA JO RALSTON
+        |
+Book Date: 
+            6/21/2019 11:13:18 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            5' 01"
+        |
+Weight: 
+            125
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

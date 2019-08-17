@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            203567
+        |
+Name: 
+            JARED MATTHEW ENNIS
+        |
+Book Date: 
+            8/1/2019 2:47:52 PM
+                
+        |
+City: 
+            SAYLOR TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            27
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            145
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

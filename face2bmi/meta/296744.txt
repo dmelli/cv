@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            77196
+        |
+Name: 
+            TOMMY LOU JOHNSON
+        |
+Book Date: 
+            7/11/2019 4:34:51 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            69
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            165
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

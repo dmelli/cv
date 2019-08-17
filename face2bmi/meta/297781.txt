@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            295976
+        |
+Name: 
+            RYAN JUDE CARRINGTON
+        |
+Book Date: 
+            7/29/2019 6:50:38 AM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            29
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Red
+        

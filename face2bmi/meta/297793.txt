@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            15065
+        |
+Name: 
+            CATHY FLORINE WILLIAMS
+        |
+Book Date: 
+            7/29/2019 11:25:03 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            56
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            120
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Blonde
+        

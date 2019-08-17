@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            744085
+        |
+Name: 
+            ANDREW CURTIS TAFTA
+        |
+Book Date: 
+            6/19/2019 4:49:38 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            26
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            237
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            87618
+        |
+Name: 
+            AUSTIN ROBERT STARCEVIC
+        |
+Book Date: 
+            6/7/2019 9:20:26 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            29
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            187
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

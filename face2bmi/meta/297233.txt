@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1122695
+        |
+Name: 
+            CORON DE ANGELO GONZALES
+        |
+Book Date: 
+            7/19/2019 4:48:53 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            Story County - Male
+        |
+Age: 
+            20
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            140
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

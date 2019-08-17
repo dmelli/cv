@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1040530
+        |
+Name: 
+            VALOR JAMES KNAPP
+        |
+Book Date: 
+            6/29/2019 2:45:58 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            19
+        |
+Height: 
+            6' 03"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

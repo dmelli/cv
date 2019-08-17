@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            79132
+        |
+Name: 
+            KC  ABLETT
+        |
+Book Date: 
+            5/17/2019 4:46:47 PM
+                
+        |
+City: 
+            BOONE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            46
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            240
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

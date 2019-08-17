@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            51822
+        |
+Name: 
+            CARL DEWAYNE CUNNINGHAM
+        |
+Book Date: 
+            8/2/2019 6:18:42 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            59
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            151
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

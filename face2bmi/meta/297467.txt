@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            366369
+        |
+Name: 
+            JAMES DAVID HAINES
+        |
+Book Date: 
+            7/24/2019 9:46:21 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            26
+        |
+Height: 
+            6' 04"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

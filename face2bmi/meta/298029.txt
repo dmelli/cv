@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            381657
+        |
+Name: 
+            ROBERT ARTHUR COONS
+        |
+Book Date: 
+            8/1/2019 10:49:30 AM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            44
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

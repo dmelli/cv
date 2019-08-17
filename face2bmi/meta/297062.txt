@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1156680
+        |
+Name: 
+            TRACI LYNN AMERSON
+        |
+Book Date: 
+            7/17/2019 1:23:11 AM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            43
+        |
+Height: 
+            5' 02"
+        |
+Weight: 
+            110
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1248797
+        |
+Name: 
+            JOSHUA CARL GROVER
+        |
+Book Date: 
+            7/22/2019 7:51:37 AM
+                
+        |
+City: 
+            BOONE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            31
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Blonde
+        

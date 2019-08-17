@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            11179
+        |
+Name: 
+            NATHANIAL RAY HOFFMAN
+        |
+Book Date: 
+            5/15/2019 7:40:43 PM
+                
+        |
+City: 
+            DELAWARE TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            28
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            190
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

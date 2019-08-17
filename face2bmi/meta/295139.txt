@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1067277
+        |
+Name: 
+            STEVEN MICHAEL JOHNSON
+        |
+Book Date: 
+            6/13/2019 12:29:25 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            57
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

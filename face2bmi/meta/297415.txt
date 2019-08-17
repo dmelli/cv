@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            411881
+        |
+Name: 
+            ALYSSA MARIE SMITH
+        |
+Book Date: 
+            7/23/2019 11:38:07 AM
+                
+        |
+City: 
+            , IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            33
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            125
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Blonde
+        

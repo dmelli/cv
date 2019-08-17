@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            229655
+        |
+Name: 
+            GARY CHARLES WOOD
+        |
+Book Date: 
+            6/30/2019 6:06:11 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            36
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Bald
+        

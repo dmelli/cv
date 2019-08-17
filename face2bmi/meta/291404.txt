@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            7703
+        |
+Name: 
+            ROBERT LEO HARRIS
+        |
+Book Date: 
+            4/9/2019 12:01:10 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            37
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

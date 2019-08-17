@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            41302
+        |
+Name: 
+            BENJAMIN LEE HUSTED
+        |
+Book Date: 
+            7/24/2019 7:17:39 PM
+                
+        |
+City: 
+            WAUKEE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            38
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

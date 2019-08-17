@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1083884
+        |
+Name: 
+            CALEB CHARLES RUTAN
+        |
+Book Date: 
+            1/2/2019 6:27:40 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            48
+        |
+Height: 
+            6' 63"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Gray
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            810071
+        |
+Name: 
+            MICHAEL WILLIAM TREAT
+        |
+Book Date: 
+            12/18/2018 4:16:25 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            26
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

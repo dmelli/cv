@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            341527
+        |
+Name: 
+            CHRISTOPHER HERBERT LAWRENCE
+        |
+Book Date: 
+            6/17/2019 2:04:05 PM
+                
+        |
+City: 
+            JEFFERSON, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            39
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

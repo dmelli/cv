@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            611203
+        |
+Name: 
+            ELLIS FELCH WILSON
+        |
+Book Date: 
+            5/17/2019 3:24:53 PM
+                
+        |
+City: 
+            MILO, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            49
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            White
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1218556
+        |
+Name: 
+            JOSEPH ANDREW STAFFORD
+        |
+Book Date: 
+            7/25/2019 3:56:32 PM
+                
+        |
+City: 
+            WINTERSET, 
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            20
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            12849
+        |
+Name: 
+            RANDALL SCOTT SMITH
+        |
+Book Date: 
+            7/29/2019 12:46:28 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            51
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            189
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Gray
+        

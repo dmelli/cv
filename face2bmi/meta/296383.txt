@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            200496
+        |
+Name: 
+            JOSHUA DEAN RICHARDS
+        |
+Book Date: 
+            7/4/2019 3:17:45 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            36
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            441704
+        |
+Name: 
+            ROBERT KYLE GATLIN
+        |
+Book Date: 
+            7/19/2019 9:39:42 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            190
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

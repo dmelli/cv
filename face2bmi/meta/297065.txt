@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            139918
+        |
+Name: 
+            SEAN MICHAEL OBOYLE
+        |
+Book Date: 
+            7/17/2019 2:08:11 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

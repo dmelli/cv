@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            254644
+        |
+Name: 
+            BRANDI NICHOLE SIMMER
+        |
+Book Date: 
+            7/31/2019 2:02:31 PM
+                
+        |
+City: 
+            DSM, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            135
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

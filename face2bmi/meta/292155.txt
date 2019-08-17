@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            71149
+        |
+Name: 
+            LANG  BACCAM
+        |
+Book Date: 
+            4/21/2019 4:27:46 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            51
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            130
+        |
+Race: 
+            Asian
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            938469
+        |
+Name: 
+            MONTY DESHAWN HARPER
+        |
+Book Date: 
+            8/1/2019 3:37:09 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            23
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            240
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

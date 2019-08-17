@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            141200
+        |
+Name: 
+            ALISON BRIANNE SCHWARTZ
+        |
+Book Date: 
+            6/13/2019 1:59:04 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            31
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            165
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

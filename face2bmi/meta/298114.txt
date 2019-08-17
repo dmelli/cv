@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1250808
+        |
+Name: 
+            KYLE LEE ABBOTT
+        |
+Book Date: 
+            8/2/2019 2:32:01 PM
+                
+        |
+City: 
+            WEST DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            163
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

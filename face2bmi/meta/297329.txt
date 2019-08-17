@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            115875
+        |
+Name: 
+            BRIAN RAY WELTZIN
+        |
+Book Date: 
+            7/21/2019 5:57:11 PM
+                
+        |
+City: 
+            PERRY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            50
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Gray
+        

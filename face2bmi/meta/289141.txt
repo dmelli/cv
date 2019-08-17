@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            935677
+        |
+Name: 
+            TEKEZE LUGU KALIFA
+        |
+Book Date: 
+            2/28/2019 12:44:58 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            19
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            115
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

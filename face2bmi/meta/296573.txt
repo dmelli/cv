@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            534260
+        |
+Name: 
+            RANDY NATHANIEL CANTWELL
+        |
+Book Date: 
+            7/8/2019 2:14:20 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

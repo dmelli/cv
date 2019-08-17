@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1229195
+        |
+Name: 
+            JACOB STEILEY ISHAM
+        |
+Book Date: 
+            7/3/2019 4:14:50 PM
+                
+        |
+City: 
+            AMES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

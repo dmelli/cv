@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            221584
+        |
+Name: 
+            PHILIP DONALD BARBER
+        |
+Book Date: 
+            7/15/2019 12:51:00 PM
+                
+        |
+City: 
+            DELAWARE TWP, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            31
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            127
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

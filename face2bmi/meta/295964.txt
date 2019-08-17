@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            508293
+        |
+Name: 
+            ANTHONY JAY CLELLAND
+        |
+Book Date: 
+            6/26/2019 3:11:53 PM
+                
+        |
+City: 
+            BONDURANT, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

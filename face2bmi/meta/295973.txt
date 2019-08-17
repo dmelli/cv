@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            684340
+        |
+Name: 
+            DALLAS REINIER TAPLEY
+        |
+Book Date: 
+            6/26/2019 5:03:51 PM
+                
+        |
+City: 
+            OTTUMWA, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            23
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            145
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

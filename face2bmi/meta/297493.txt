@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            538219
+        |
+Name: 
+            KEVIN ANTONIO JOHNSON
+        |
+Book Date: 
+            7/24/2019 4:18:23 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            160
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

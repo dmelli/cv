@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            852251
+        |
+Name: 
+            NICOLE RENEE WALKER
+        |
+Book Date: 
+            5/28/2019 5:55:01 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            31
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            234
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

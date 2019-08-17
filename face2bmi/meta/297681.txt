@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            502483
+        |
+Name: 
+            CODY JAMES MARTIN
+        |
+Book Date: 
+            7/27/2019 4:46:17 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            24
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            165
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

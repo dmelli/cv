@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            37703
+        |
+Name: 
+            CHRISTOPHER LEO REPPLINGER
+        |
+Book Date: 
+            7/31/2019 10:30:08 AM
+                
+        |
+City: 
+            DELAWARE TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            46
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

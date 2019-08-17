@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            673900
+        |
+Name: 
+            JUSTIN CINQWAN JORDAN
+        |
+Book Date: 
+            7/2/2019 11:17:01 AM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            190
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

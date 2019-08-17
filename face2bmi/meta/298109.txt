@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            196939
+        |
+Name: 
+            THOMAS JAMES WHITE
+        |
+Book Date: 
+            8/2/2019 1:21:13 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            36
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            220
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Brown
+        

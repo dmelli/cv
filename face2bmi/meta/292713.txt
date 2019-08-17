@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            530100
+        |
+Name: 
+            LARONTEZ JAVON BUCHANAN
+        |
+Book Date: 
+            4/30/2019 3:07:38 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            19
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            160
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            634132
+        |
+Name: 
+            BOBBI LEE BARDEN
+        |
+Book Date: 
+            6/4/2019 1:18:52 AM
+                
+        |
+City: 
+            MADRID, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            41
+        |
+Height: 
+            5' 01"
+        |
+Weight: 
+            115
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            655387
+        |
+Name: 
+            TIMOTHY RAY NUSSBAUM
+        |
+Book Date: 
+            7/24/2019 6:57:17 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            272094
+        |
+Name: 
+            FREDARIES CALVIN PATRICK
+        |
+Book Date: 
+            8/1/2019 4:32:46 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            23
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            165
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            286283
+        |
+Name: 
+            DONTERIUS JAMAR BOMAR
+        |
+Book Date: 
+            1/8/2019 4:58:14 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            21
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            120
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

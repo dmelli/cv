@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1070485
+        |
+Name: 
+            AMINA  GARCIA
+        |
+Book Date: 
+            7/29/2019 6:57:36 PM
+                
+        |
+City: 
+            URBANDALE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            23
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

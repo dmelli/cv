@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1011460
+        |
+Name: 
+            LYRIC DOMINIC TYLER HABECK
+        |
+Book Date: 
+            4/25/2019 3:56:44 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            28
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

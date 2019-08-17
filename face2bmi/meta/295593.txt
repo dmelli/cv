@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            519318
+        |
+Name: 
+            JOSHUA ADAM SCHIRO
+        |
+Book Date: 
+            6/20/2019 4:27:09 AM
+                
+        |
+City: 
+            DECATUR, IL
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Brown
+        

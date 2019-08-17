@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            7193
+        |
+Name: 
+            DUSTYN LOWELL THOMAS
+        |
+Book Date: 
+            6/15/2019 2:34:54 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            27
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

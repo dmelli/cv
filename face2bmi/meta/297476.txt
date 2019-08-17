@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1136161
+        |
+Name: 
+            JONATHAN  REYES
+        |
+Book Date: 
+            7/24/2019 12:17:44 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            32
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

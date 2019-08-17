@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            472136
+        |
+Name: 
+            JOSEPH ANTHONY CLAUSI
+        |
+Book Date: 
+            6/24/2019 8:58:50 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            27
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            130
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

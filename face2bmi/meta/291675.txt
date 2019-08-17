@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            992439
+        |
+Name: 
+            FABRECE JAMAR BOWER TURNER
+        |
+Book Date: 
+            4/14/2019 2:18:26 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            21
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            139
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

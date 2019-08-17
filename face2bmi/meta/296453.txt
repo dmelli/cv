@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            969635
+        |
+Name: 
+            RODNEY KEITH RASHAD RUSSELL
+        |
+Book Date: 
+            7/5/2019 6:58:14 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            38
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            248
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

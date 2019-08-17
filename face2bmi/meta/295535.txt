@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            33402
+        |
+Name: 
+            NICOLE MARIE BRANDT
+        |
+Book Date: 
+            6/19/2019 12:38:52 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            41
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            165
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

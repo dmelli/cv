@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            4202
+        |
+Name: 
+            MICHAEL ALLEN NEWMAN
+        |
+Book Date: 
+            8/2/2019 8:58:47 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            35
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            195
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

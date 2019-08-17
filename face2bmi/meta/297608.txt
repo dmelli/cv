@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            119237
+        |
+Name: 
+            JESSICA LUCILLE MASTERS
+        |
+Book Date: 
+            7/26/2019 10:17:44 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            27
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

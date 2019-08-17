@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            604631
+        |
+Name: 
+            VERNON JEWELL WALKER
+        |
+Book Date: 
+            6/25/2019 11:36:05 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            25
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            175
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

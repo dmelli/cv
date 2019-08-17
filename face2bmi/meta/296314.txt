@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            493285
+        |
+Name: 
+            RACAIL ALECE BRANDT
+        |
+Book Date: 
+            7/3/2019 1:58:51 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            5' 02"
+        |
+Weight: 
+            120
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

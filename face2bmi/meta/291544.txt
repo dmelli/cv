@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            701404
+        |
+Name: 
+            ROBERT LEE TREY FREEMAN
+        |
+Book Date: 
+            4/11/2019 4:33:46 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            WASH-M    
+        |
+Age: 
+            18
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

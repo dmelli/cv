@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            252248
+        |
+Name: 
+            CALEB LEONARD BLATTEL
+        |
+Book Date: 
+            6/6/2019 8:51:14 PM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            30
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

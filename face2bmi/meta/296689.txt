@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            670260
+        |
+Name: 
+            CHRISTIAN OSVALDO RUBIO
+        |
+Book Date: 
+            7/10/2019 12:20:12 PM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 00"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

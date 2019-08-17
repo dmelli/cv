@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1241274
+        |
+Name: 
+            JASEN SCOTT TRIPP
+        |
+Book Date: 
+            6/9/2019 8:20:22 AM
+                
+        |
+City: 
+            KEOKUK, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            43
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Sand
+        

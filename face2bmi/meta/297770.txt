@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            7597
+        |
+Name: 
+            ANTONIO MERCEDES GARRETT
+        |
+Book Date: 
+            7/29/2019 12:42:01 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            26
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            150
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

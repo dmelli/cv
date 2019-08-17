@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1042790
+        |
+Name: 
+            KEVIN DONYELL SMITH
+        |
+Book Date: 
+            6/14/2019 6:54:38 PM
+                
+        |
+City: 
+            ANKENY, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            200
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

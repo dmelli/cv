@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1216338
+        |
+Name: 
+            SEAN RAMON DUNCAN
+        |
+Book Date: 
+            2/14/2019 11:54:45 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            41
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            186
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

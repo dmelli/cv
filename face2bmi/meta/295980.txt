@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            47532
+        |
+Name: 
+            TYLER JEREMY OWENS
+        |
+Book Date: 
+            6/26/2019 6:53:55 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            38
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Brown
+        

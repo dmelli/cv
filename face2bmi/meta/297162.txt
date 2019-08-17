@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            625798
+        |
+Name: 
+            BENJAMIN ANTON ERICKSON
+        |
+Book Date: 
+            7/18/2019 4:01:10 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            Marshal County Jail -Male
+        |
+Age: 
+            26
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            130
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

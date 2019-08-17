@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            866737
+        |
+Name: 
+            RICKY LEE HAYGOOD
+        |
+Book Date: 
+            1/29/2019 8:15:05 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            19
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            175
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

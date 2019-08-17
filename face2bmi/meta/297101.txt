@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            38497
+        |
+Name: 
+            SAVANNAH DAWN HAMMER
+        |
+Book Date: 
+            7/17/2019 4:39:20 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            5' 03"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

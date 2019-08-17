@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            16180
+        |
+Name: 
+            ALLEN RAY SHEPHERD
+        |
+Book Date: 
+            7/31/2019 3:51:19 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            58
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

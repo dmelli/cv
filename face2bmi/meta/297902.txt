@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1066689
+        |
+Name: 
+            RICHARD MICHAEL EMERY
+        |
+Book Date: 
+            7/30/2019 6:42:46 PM
+                
+        |
+City: 
+            AMES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            53
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            155
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

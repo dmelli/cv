@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            160336
+        |
+Name: 
+            CHAD DANIEL BEACH
+        |
+Book Date: 
+            6/10/2019 4:34:05 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            33
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

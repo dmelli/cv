@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1169382
+        |
+Name: 
+            JULIANNE JO BECKETT
+        |
+Book Date: 
+            7/15/2019 4:50:55 PM
+                
+        |
+City: 
+            KNOXVILLE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            20
+        |
+Height: 
+            5' 59"
+        |
+Weight: 
+            350
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            41644
+        |
+Name: 
+            DUSTIN LEROY DAVIS
+        |
+Book Date: 
+            6/3/2019 5:51:55 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            31
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

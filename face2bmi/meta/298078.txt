@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            875031
+        |
+Name: 
+            AALLYAH TONIECE COLEMAN
+        |
+Book Date: 
+            8/1/2019 11:56:45 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 04"
+        |
+Weight: 
+            130
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

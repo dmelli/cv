@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            45693
+        |
+Name: 
+            MELVIN DOUGLAS HAYGOOD
+        |
+Book Date: 
+            7/25/2019 9:56:35 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            43
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            265
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

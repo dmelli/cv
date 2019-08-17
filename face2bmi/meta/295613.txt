@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            423238
+        |
+Name: 
+            DENNIS JAY WENTLAND
+        |
+Book Date: 
+            6/20/2019 1:50:54 PM
+                
+        |
+City: 
+            ALTOONA, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            58
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            170
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

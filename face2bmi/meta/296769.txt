@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            897894
+        |
+Name: 
+            KAILYN RENE AGEE
+        |
+Book Date: 
+            7/11/2019 1:16:15 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 02"
+        |
+Weight: 
+            110
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

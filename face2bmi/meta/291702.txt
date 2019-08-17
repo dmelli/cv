@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            567058
+        |
+Name: 
+            JEFFREY SHANE SMITH
+        |
+Book Date: 
+            4/14/2019 9:09:29 PM
+                
+        |
+City: 
+            URBANDALE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            38
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            205
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Red
+        

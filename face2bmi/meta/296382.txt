@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            17203
+        |
+Name: 
+            RAY ALLEN BLUME
+        |
+Book Date: 
+            7/4/2019 2:56:34 PM
+                
+        |
+City: 
+            SAYLOR TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            36
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            163
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Red
+        

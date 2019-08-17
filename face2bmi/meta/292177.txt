@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1109044
+        |
+Name: 
+            MICHAEL ANTHONY GOLDIZEN
+        |
+Book Date: 
+            4/21/2019 5:51:18 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            33
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

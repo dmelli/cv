@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            331145
+        |
+Name: 
+            DONALD JAMES LUCAS
+        |
+Book Date: 
+            7/30/2019 5:31:34 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            44
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            158
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

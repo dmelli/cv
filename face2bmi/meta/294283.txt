@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1157187
+        |
+Name: 
+            AMELIA LEE KNOKE
+        |
+Book Date: 
+            5/29/2019 3:12:48 AM
+                
+        |
+City: 
+            URBANDALE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            120
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Blonde
+        

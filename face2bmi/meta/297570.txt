@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            54402
+        |
+Name: 
+            JOSHUA JOE GARDNER
+        |
+Book Date: 
+            7/25/2019 4:13:10 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            260
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

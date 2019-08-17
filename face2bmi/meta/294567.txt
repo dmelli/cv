@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            254002
+        |
+Name: 
+            VALERY  GARCIA
+        |
+Book Date: 
+            6/3/2019 1:56:03 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            26
+        |
+Height: 
+            5' 01"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

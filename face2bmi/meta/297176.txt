@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            967525
+        |
+Name: 
+            NATALE NORMAN ISOLINI
+        |
+Book Date: 
+            7/18/2019 8:30:43 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            49
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            195
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

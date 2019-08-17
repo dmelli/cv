@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            529846
+        |
+Name: 
+            KYLE LEE WADDELL
+        |
+Book Date: 
+            7/23/2019 6:22:32 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            28
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            165
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

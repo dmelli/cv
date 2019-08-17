@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1028615
+        |
+Name: 
+            MARTEL  SILVA
+        |
+Book Date: 
+            7/4/2019 9:59:04 PM
+                
+        |
+City: 
+            JOHNSTON, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            22
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            205
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

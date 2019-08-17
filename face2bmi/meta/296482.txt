@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            55372
+        |
+Name: 
+            EMERSON LEE STRAYHORN
+        |
+Book Date: 
+            7/6/2019 7:45:43 AM
+                
+        |
+City: 
+            SAYLOR TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            35
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            220
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

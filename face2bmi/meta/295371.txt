@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1242772
+        |
+Name: 
+            ANDRES ORTEGA GREGORIO
+        |
+Book Date: 
+            6/17/2019 12:36:22 AM
+                
+        |
+City: 
+            PLEASANT HILL, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            34
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            190
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

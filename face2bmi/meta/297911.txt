@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1016501
+        |
+Name: 
+            DOUGLAS WILLIAM ROE
+        |
+Book Date: 
+            7/30/2019 10:31:52 PM
+                
+        |
+City: 
+            WAUKEE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            19
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            138
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

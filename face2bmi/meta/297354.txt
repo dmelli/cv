@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1101217
+        |
+Name: 
+            JORDAN RYAN POPE
+        |
+Book Date: 
+            7/22/2019 1:06:20 PM
+                
+        |
+City: 
+            KNOXVILLE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            20
+        |
+Height: 
+            6' 06"
+        |
+Weight: 
+            165
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1052603
+        |
+Name: 
+            LUKE NATHAN CARTER
+        |
+Book Date: 
+            7/29/2019 10:57:23 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            20
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Blonde
+        

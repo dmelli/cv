@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            86854
+        |
+Name: 
+            JESUS SAUL ZARAGOZA ZARAGOZA
+        |
+Book Date: 
+            5/4/2019 5:42:21 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            31
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

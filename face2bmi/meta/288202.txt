@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1184133
+        |
+Name: 
+            ELMER SALVADOR RIVERA GARCIA
+        |
+Book Date: 
+            2/10/2019 4:44:11 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            41
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

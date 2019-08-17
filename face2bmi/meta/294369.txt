@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            774724
+        |
+Name: 
+            MARVIN LEWIS NEWSOM
+        |
+Book Date: 
+            5/30/2019 11:35:16 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            46
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            165
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

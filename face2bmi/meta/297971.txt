@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1164910
+        |
+Name: 
+            PIERCE NICHOLAS CRUZ
+        |
+Book Date: 
+            7/31/2019 4:06:17 PM
+                
+        |
+City: 
+            WEST DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            19
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            140
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

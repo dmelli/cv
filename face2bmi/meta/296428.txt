@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            151669
+        |
+Name: 
+            ISAIAH JACOB STEIDE
+        |
+Book Date: 
+            7/5/2019 10:11:42 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            18
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            170
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

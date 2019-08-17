@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1046119
+        |
+Name: 
+            ANTOINE MARTEZ MCMILLAN
+        |
+Book Date: 
+            6/15/2019 3:22:34 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            36
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            210
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

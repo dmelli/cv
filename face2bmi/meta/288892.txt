@@ -1,0 +1,37 @@
+
+Offender/Name ID: 
+            550459
+        |
+Name: 
+            TANI PAIGE KING
+        |
+Book Date: 
+            2/23/2019 1:50:45 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+|
+Age: 
+            23
+        |
+Height: 
+            5' 03"
+        |
+Weight: 
+            200
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Blonde
+        

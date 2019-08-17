@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            750812
+        |
+Name: 
+            NICHOLAS RAY PIERSOL
+        |
+Book Date: 
+            6/24/2019 8:20:00 AM
+                
+        |
+City: 
+            IOWA FALLS, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            40
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            185
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Green
+        |
+Hair: 
+            Brown
+        

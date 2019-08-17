@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1101831
+        |
+Name: 
+            TULSI RAM MAINALI
+        |
+Book Date: 
+            7/23/2019 8:44:36 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            22
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            135
+        |
+Race: 
+            Asian
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

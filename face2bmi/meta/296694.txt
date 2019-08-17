@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1042810
+        |
+Name: 
+            MATTHEW ANTHONY LEAVY
+        |
+Book Date: 
+            7/10/2019 12:39:37 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            ELECTRON  
+        |
+Age: 
+            34
+        |
+Height: 
+            6' 01"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

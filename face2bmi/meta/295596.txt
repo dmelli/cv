@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            950052
+        |
+Name: 
+            JUSTIN LEE JAMISON
+        |
+Book Date: 
+            6/20/2019 5:31:56 AM
+                
+        |
+City: 
+            BOONE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            200
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            118221
+        |
+Name: 
+            JOSEPH MICHAEL BARRESE
+        |
+Book Date: 
+            6/18/2019 12:45:31 AM
+                
+        |
+City: 
+            DELAWARE TWP, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            35
+        |
+Height: 
+            5' 07"
+        |
+Weight: 
+            173
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

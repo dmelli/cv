@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            176502
+        |
+Name: 
+            ROBERTA JAYNE PUTNEY
+        |
+Book Date: 
+            7/11/2019 8:53:27 PM
+                
+        |
+City: 
+            URBANDALE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            52
+        |
+Height: 
+            5' 06"
+        |
+Weight: 
+            325
+        |
+Race: 
+            White
+        |
+Sex: 
+            Female
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Red
+        

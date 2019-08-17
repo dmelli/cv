@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            107253
+        |
+Name: 
+            COREY MICHAEL MCDONALD
+        |
+Book Date: 
+            5/7/2019 5:48:17 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            160
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

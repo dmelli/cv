@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            159140
+        |
+Name: 
+            JESSE DYLAN JOHNSON DACRE
+        |
+Book Date: 
+            4/15/2019 12:53:05 PM
+                
+        |
+City: 
+            REDFIELD, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            31
+        |
+Height: 
+            6' 03"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

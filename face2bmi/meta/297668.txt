@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            995723
+        |
+Name: 
+            BRIN  SIU
+        |
+Book Date: 
+            7/27/2019 1:53:50 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            42
+        |
+Height: 
+            5' 05"
+        |
+Weight: 
+            150
+        |
+Race: 
+            Asian
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

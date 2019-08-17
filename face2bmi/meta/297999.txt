@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            504473
+        |
+Name: 
+            TYLER DOUGLAS PRATT
+        |
+Book Date: 
+            7/31/2019 11:12:25 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            32
+        |
+Height: 
+            5' 08"
+        |
+Weight: 
+            175
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

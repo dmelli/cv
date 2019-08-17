@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1011099
+        |
+Name: 
+            PARIS LASHAWN GARRETT
+        |
+Book Date: 
+            6/20/2019 6:45:09 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            18
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            175
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

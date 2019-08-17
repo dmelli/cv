@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            464909
+        |
+Name: 
+            PATRICK JAMES SMITH
+        |
+Book Date: 
+            8/2/2019 4:16:31 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            33
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            240
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

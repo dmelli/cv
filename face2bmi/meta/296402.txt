@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            142466
+        |
+Name: 
+            BRIAN EUGENE BURGESS
+        |
+Book Date: 
+            7/4/2019 11:51:20 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            56
+        |
+Height: 
+            6' 00"
+        |
+Weight: 
+            190
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Brown
+        

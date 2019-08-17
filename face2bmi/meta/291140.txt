@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1126601
+        |
+Name: 
+            MIGUEL JESUS SOTO
+        |
+Book Date: 
+            4/4/2019 5:29:00 PM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            28
+        |
+Height: 
+            5' 09"
+        |
+Weight: 
+            150
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

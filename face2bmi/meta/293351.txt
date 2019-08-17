@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            1079016
+        |
+Name: 
+            ALEC SCOTT FRAZIER
+        |
+Book Date: 
+            5/11/2019 9:17:35 PM
+                
+        |
+City: 
+            WEST DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            21
+        |
+Height: 
+            5' 11"
+        |
+Weight: 
+            190
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Hazel
+        |
+Hair: 
+            Brown
+        

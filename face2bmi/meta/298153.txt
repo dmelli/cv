@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            853870
+        |
+Name: 
+            BRANDON LEE MCARDELL
+        |
+Book Date: 
+            8/3/2019 2:33:25 AM
+                
+        |
+City: 
+            PLEASANT HILL, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            26
+        |
+Height: 
+            6' 02"
+        |
+Weight: 
+            180
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Brown
+        

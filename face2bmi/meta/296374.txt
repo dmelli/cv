@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            912542
+        |
+Name: 
+            HUSSEIN NKUSU TAMBWE
+        |
+Book Date: 
+            7/4/2019 10:40:46 AM
+                
+        |
+City: 
+            URBANDALE, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            24
+        |
+Height: 
+            5' 57"
+        |
+Weight: 
+            175
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

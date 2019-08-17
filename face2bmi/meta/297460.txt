@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            116267
+        |
+Name: 
+            REGINALD AKEEM JACKSON
+        |
+Book Date: 
+            7/24/2019 2:21:53 AM
+                
+        |
+City: 
+            DES MOINES, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            29
+        |
+Height: 
+            5' 10"
+        |
+Weight: 
+            210
+        |
+Race: 
+            Black
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Brown
+        |
+Hair: 
+            Black
+        

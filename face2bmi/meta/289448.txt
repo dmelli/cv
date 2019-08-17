@@ -1,0 +1,38 @@
+
+Offender/Name ID: 
+            710614
+        |
+Name: 
+            DEVANTE VASHAWN STEWART
+        |
+Book Date: 
+            3/6/2019 12:56:39 AM
+                
+        |
+City: 
+            MARSHALLTOWN, IA
+        |
+Holding Location: 
+            PCJ       
+        |
+Age: 
+            26
+        |
+Height: 
+            6' 03"
+        |
+Weight: 
+            190
+        |
+Race: 
+            White
+        |
+Sex: 
+            Male
+        |
+Eyes: 
+            Blue
+        |
+Hair: 
+            Red
+        
