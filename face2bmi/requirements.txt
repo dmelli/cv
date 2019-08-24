@@ -1,0 +1,14 @@
+numpy==1.16.3
+Keras==2.2.4
+scipy==1.2.1
+pandas==0.25.0
+keras_vggface==0.6
+Click==7.0
+tensorflow==1.14.0
+requests==2.22.0
+selenium==3.141.0
+setuptools==41.0.1
+tqdm==4.32.1
+Pillow==6.1.0
+beautifulsoup4==4.8.0
+scikit_learn==0.21.3

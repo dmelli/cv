@@ -17,18 +17,19 @@ from keras.engine import Model
 from keras.preprocessing import image
 from keras_vggface.vggface import VGGFace
 from keras_vggface import utils
+import tensorflow as tf
 
 from PIL import ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 def load_object(filename):
-    with open(filename, 'rb') as f:
-        res = pickle.load(f)
-    return res
+	with open(filename, 'rb') as f:
+		res = pickle.load(f)
+	return res
 
 def save_object(obj, filename):
-    with open(filename, 'wb') as f:
-        pickle.dump(obj, f)
+	with open(filename, 'wb') as f:
+		pickle.dump(obj, f)
 
 def print_ln(x, length = 40):
 	left_len = (length - len(x) - 2) // 2
@@ -36,14 +37,14 @@ def print_ln(x, length = 40):
 	print('='*left_len + ' '+ str(x) + ' '+ '='*right_len)
 
 def process_image(img,model):
-    if model == 'vgg16':
-        version = 1
-    else:
-        version = 2
-    x = image.img_to_array(img)
-    x = np.expand_dims(x, axis=0)
-    x = utils.preprocess_input(x, version=version) # or version=2
-    return x
+	if model == 'vgg16':
+		version = 1
+	else:
+		version = 2
+	x = image.img_to_array(img)
+	x = np.expand_dims(x, axis=0)
+	x = utils.preprocess_input(x, version=version) # or version=2
+	return x
 
 def _encode_label(x, transform_label = True):
 	if transform_label:
@@ -93,7 +94,7 @@ class tasks():
 			config['model'], 
 			config['layer']) 
 
-	def extract_face_feature(self, input_face):
+	def extract_face_feature(self, input_face, save = False):
 		""" extract face array from VGG-Face model
 		Args:
 			@input(str): image path or directory
@@ -125,7 +126,10 @@ class tasks():
 				img = image.load_img('%s/%s'%(input_face,i), target_size=(224, 224))
 				res = vggface.predict(process_image(img, model))[0,:].reshape(-1)
 				face_array[i] = res
-
+				
+		if save:
+			save_object(face_array, self.config['face_array_path'])
+			
 		return face_array
 
 	def preprocess_split_meta_data(self, input_meta, split_ratio = 0.8):
