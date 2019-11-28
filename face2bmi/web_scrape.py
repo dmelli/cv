@@ -27,8 +27,8 @@ def _check_new_bookid(new_bookid):
 	return new_bookid
 
 def _stripn(x):
-
-	x = x.split('\n')[2].strip()
+	x = x.split(': ')[1]
+	x = x.replace('\n','').strip()
 	return x
 
 def _scrape_page(bookid):
@@ -111,7 +111,7 @@ def scrape_bookid(urlpage):
 	# loop over results
 	for result in tqdm(results):
 		_, lastname, firstname, age, book_date = [i.text for i in result.find_elements_by_tag_name('td')]
-		link = result.find_element_by_xpath('td/a').get_attribute('href')
+		link = result.find_element_by_class_name('sorting_1').find_element_by_class_name('details').get_attribute('href')
 		# append dict to array
 		row = {}
 		row['lastname'] = lastname
@@ -163,33 +163,25 @@ def combine_meta():
 
 	return data
 
-if __name__ == '__main__':
 
-	# chrome drive can be downloaded from 
-	# https://chromedriver.chromium.org/downloads
-	# current stable version is ChromeDriver 76.0.3809.126
-	# extract the chromedrive of your OS and place into the path of './chromedriver'
-	CHROME_DRIVER = './chromedriver'
+CHROME_DRIVER = './chromedriver78.exe'
+BOOKID_PATH = './bookid/{}.csv'.format(str(datetime.today().date()))
 
-	# save each extraction to './bookid' directory
-	BOOKID_PATH = './bookid/%s.csv'%(str(datetime.today().date()))
+urlpage = 'https://apps.polkcountyiowa.gov/PolkCountyInmates/CurrentInmates/' 
 
-	# the first page for web scraping
-	urlpage = 'https://apps.polkcountyiowa.gov/PolkCountyInmates/CurrentInmates/' 
+println(' fetch new bookid list ')
+if os.path.exists(BOOKID_PATH):
+	print('> load from existing bookid list [{}]'.format(BOOKID_PATH))
+	new_bookid = pd.read_csv(BOOKID_PATH)['bookid'].tolist()
+	print('> found {} bookid'.format(len(new_bookid)))
+else:
+	new_bookid = scrape_bookid(urlpage)
 
-	println(' fetch new bookid list ')
-	if os.path.exists(BOOKID_PATH):
-		print('> load from existing bookid list [%s]'%(BOOKID_PATH))
-		new_bookid = pd.read_csv(BOOKID_PATH)['bookid'].tolist()
-		print('> found %d bookid'%(len(new_bookid)))
-	else:
-		new_bookid = scrape_bookid(urlpage)
+println(' scrape new pages ')
+_ = scrape_pages_continue(new_bookid)
 
-	println(' scrape new pages ')
-	_ = scrape_pages_continue(new_bookid)
-
-	println(' combine data ')
-	data = combine_meta()
-	data.to_csv('./full.csv', index = False)
+println(' combine data ')
+data = combine_meta()
+data.to_csv('./full.csv', index = False)
 
 
